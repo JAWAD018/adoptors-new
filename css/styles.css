@@ -1,0 +1,127 @@
+/* body{
+  overflow: hidden;
+} */
+.header {
+    background-color:lightblue;
+    height: 550px;
+    border-width: 0;
+  }
+  h1 {
+    color: #251749;
+    font-family: apple chancery, cursive;
+  
+  }
+  h2 {
+    color: #251749;
+    font-family: monoline;
+  }
+  .hos-img {
+    margin: 60px 0 0 40px;
+    width: 400px;
+  }
+  .heading {
+    color: #69728e;
+    width: 600px;
+    font-size: 2.3rem;
+    font-weight: 50;
+    position: relative;
+    bottom: 330px;
+    left: 750px;
+  }
+  
+  i {
+    position: relative;
+    left: 60px;
+  }
+  
+  content {
+    height: 550px;
+  }
+  
+  .quote {
+    margin: 240px 0 240px 300px;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 2.5rem;
+  }
+  .catalog {
+    height: 550px;
+    background-color: #f3ccff;
+  }
+  .footer {
+    background-color:lightblue;
+    height: 100px;
+    text-align: center;
+    margin-top: 150px;
+    display: grid;
+    justify-content: center;
+    font-size: large;
+  }
+  
+  .benefits {
+    text-align: center;
+    max-height: 550px;
+    font-size: 1.5rem;
+  }
+  
+  .check-img {
+    margin-top: 60px;
+    width: 150px;
+  }
+  .catalog {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  
+  .catalog-img {
+    margin-top: 40px;
+    width: 150px;
+  }
+  .catalog-box {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    /* font-weight: 50; */
+    width: 300px;
+    height: 400px;
+    background-color: #62b6b7;
+    text-align: center;
+    border-radius: 10px;
+    position: relative;
+    top: 100px;
+    left: 30px;
+  }
+  .catalog-btn {
+    background-color: #cbedd5;
+    color: #251749;
+    border-width: 0;
+    border-radius: 3px;
+    padding: 10px 25px 10px 25px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+  }
+  .catalog-btn:hover {
+    background-color: #9bf7b6;
+  }
+  p {
+    font-size: 32px;
+    text-align: right;
+  }
+  p3 {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .nav {
+    font-size: 20px;
+    color: black;
+    margin-top: 10px;
+    margin-bottom: 5px;
+  }
+  .catalog-btn1 {
+    background-color: #cbedd5;
+    color: #251749;
+    border-width: 0;
+    border-radius: 3px;
+    padding: 6px 25px 6px 25px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+  }
+  

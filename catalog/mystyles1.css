@@ -1,0 +1,75 @@
+.container-fluid{
+  width: 1200px;
+  margin: 0 auto;
+  background-color: darkgrey;
+  padding: 10px;
+
+  
+}
+
+.firstDiv{
+  background-color: #eee;
+  padding: 5px;
+  width: 300px;
+  border-radius: 10px;
+  display: inline-block;
+  justify-content: space-between;
+
+}
+
+.firstDiv > h1{
+text-align: center;
+
+}
+
+.firstDiv > p{
+  text-align: center;
+
+}
+
+.secondDiv{
+  background-color: #eee;
+  padding: 10px;
+  width: 300px;
+  border-radius: 10px;
+  display: inline-block;
+  justify-content: space-between;
+}
+
+.secondDiv > h1{
+text-align: center;
+}
+.secondDiv > p{
+  text-align: center;
+}
+.thirdDiv{
+  background-color: #eee;
+  padding: 10px;
+  width: 300px;
+  border-radius: 10px;
+  display: inline-block;
+  justify-content: space-between;
+}
+
+.thirdDiv > h1{
+text-align: center;
+}
+.thirdDiv > p{
+  text-align: center;
+}
+.fourthDiv{
+  background-color: #eee;
+  padding: 10px;
+  width: 300px;
+  border-radius: 10px;
+  display: inline-block;
+  justify-content: space-between;
+
+}
+
+.fourthDiv > h1{
+text-align: center;
+}
+.fourthDiv > p{
+  text-align: center;
+}
